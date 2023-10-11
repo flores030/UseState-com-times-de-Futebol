@@ -3,7 +3,7 @@ Instalar o Npm:
     npm install 
 
 
-Isntalar Dependencias:
+Instalar Dependencias:
 
     npm install react-native-safe-area-context
 
@@ -15,6 +15,6 @@ Isntalar Dependencias:
 
     npm install react-native-screens
 
-Rodar:
+Rodar o Projeto:
 
     npx expo start
